@@ -1,0 +1,5 @@
+.nome-site {
+    font-size: 25px;
+    font-family: Arial, sans-serif;
+    margin-left: 30px;
+}
